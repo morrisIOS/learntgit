@@ -1,4 +1,4 @@
-{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf110
+{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf130
 {\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fmodern\fcharset0 Courier-Bold;}
 {\colortbl;\red255\green255\blue255;\red52\green52\blue52;\red249\green249\blue249;\red38\green38\blue38;
 }
@@ -13,4 +13,5 @@ Git
 Git 
 \f1\b \cf4 is
 \f0\b0 \cf2  free software distributed under the GPL.\
-Git has a mutable index called stage.}
+Git has a mutable index called stage.\
+test111111}
